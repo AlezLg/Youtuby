@@ -9,6 +9,6 @@
 - Descarga videos de YouTube en formato **MP4**.
 - Extrae audio de videos en formato **MP3**.
 - Interfaz intuitiva y fácil de usar.
-- Soporte para múltiples resoluciones de video (360p, 480p, 720p, 1080p, etc.).
+- Soporte para maxima resolucion de video e audio.
 - Conversión rápida y eficiente.
 - Compatible con **Windows**, **macOS** y **Linux**.
